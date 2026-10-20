@@ -1,0 +1,6 @@
+{
+  "name": "usage-forward",
+  "version": "0.1.0",
+  "description": "Forwards each plan-usage warning from 90% to 99% into the conversation, so Claude can pace itself and write handover docs before the limit hits",
+  "types": "./types/index.d.ts"
+}

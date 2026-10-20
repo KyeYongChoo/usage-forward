@@ -1,0 +1,5 @@
+{
+  "name": "usage-forward",
+  "owner": { "name": "chook" },
+  "plugins": [{ "name": "usage-forward", "source": "./" }]
+}
