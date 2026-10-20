@@ -1,5 +1,6 @@
 {
   "name": "usage-forward",
   "owner": { "name": "chook" },
-  "plugins": [{ "name": "usage-forward", "source": "./" }]
+  "plugins": [{ "name": "usage-forward", "source": "./" }],
+  "description": "Forwards each plan-usage warning from 90% to 99% into the conversation, so Claude can pace itself and write handover docs before the limit hits",
 }

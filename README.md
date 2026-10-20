@@ -1,6 +1,7 @@
 # usage-forward
 
 A Claude Code mod that forwards plan-usage warnings to Claude itself.
+Submitted to the Anthropic public plugin marketplace.
 
 Normally the CLI shows *you* a warning as your 5-hour (or weekly) usage limit
 climbs past 90%. If you've left Claude working alone, nobody reads it. With
